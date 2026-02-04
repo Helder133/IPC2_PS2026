@@ -13,7 +13,7 @@ public class Practica_Git {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Practica de git xD");
-        System.out.println("Hello World!");
+        System.out.println("Usando otra rama xD");
         
     }
 }
